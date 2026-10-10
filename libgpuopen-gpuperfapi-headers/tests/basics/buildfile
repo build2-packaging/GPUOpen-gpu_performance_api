@@ -1,0 +1,3 @@
+import libs = libgpuopen-gpuperfapi-headers%lib{gpuopen-gpuperfapi-headers}
+
+exe{driver}: {hxx cxx}{**} $libs testscript{**}
