@@ -1,0 +1,3 @@
+import libs = libgpuopen-amddxext%lib{gpuopen-amddxext}
+
+exe{driver}: {hxx cxx}{**} $libs testscript{**}
