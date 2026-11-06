@@ -1,0 +1,8 @@
+--- README.md.orig	2026-11-03 23:15:42.625861673 +0100
++++ README.md	2026-11-06 23:31:29.156512440 +0100
+@@ -1,4 +1,4 @@
+-﻿# GPU Performance API
++# GPU Performance API
+ ---
+ The AMD GPU Performance API (GPUPerfAPI, or GPA) is a powerful library which provides access to GPU Performance Counters.
+ It can help analyze the performance and execution characteristics of applications using an AMD Radeon™ GPU. This library
