@@ -1,0 +1,8 @@
+--- RELEASE_NOTES.txt.orig	2026-11-03 23:15:42.625861673 +0100
++++ RELEASE_NOTES.txt	2026-11-06 23:31:32.420367778 +0100
+@@ -1,4 +1,4 @@
+-﻿# GPU Performance API Release Notes
++# GPU Performance API Release Notes
+ # Version 4.4.1
+ * Added support for AMD Radeon 8040S, 8050S, 8060S, and 8065S APUs.
+ * Fixed WaveOccupancyPct failing with kGpaStatusErrorInvalidCounterGroupData on GFX11.5 due to under-reported SPM capacity.
