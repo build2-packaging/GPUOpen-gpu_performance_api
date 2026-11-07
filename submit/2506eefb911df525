@@ -1,0 +1,9 @@
+: 1
+name: libgpuopen-gpuperfapi-headers
+version: 4.4.103
+upstream-version: 4.4.1.3
+type: lib,binless
+language: c++
+project: gpuopen
+summary: AMD GPU Performance API (GPUPerfAPI) C++ headers
+license: MIT; MIT License.

@@ -1,0 +1,9 @@
+: 1
+name: libgpuopen-amddxext
+version: 4.4.103
+upstream-version: 4.4.1.3
+type: lib,binless
+language: c++
+project: gpuopen
+summary: AMD Direct3D driver extension C++ API headers
+license: MIT; MIT License.
