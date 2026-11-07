@@ -1,6 +1,6 @@
 : 1
 name: libgpuopen-gpuperfapi-headers
-version: 4.4.103-a.0.z
+version: 4.4.103
 upstream-version: 4.4.1.3
 type: lib,binless
 language: c++
